@@ -1,0 +1,14 @@
+{
+    "UPPER": 1,
+    "LOWER": 1, 
+    "SHOES": 2,
+    "RIGID_ACC": 1,
+    "ACC": 1,
+    "randomize": true,
+    "avatarTypes": {
+        "R15": false,
+        "BUNDLE": false,
+        "NEW": false
+    }
+}
+
