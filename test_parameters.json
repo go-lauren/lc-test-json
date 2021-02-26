@@ -6,11 +6,11 @@
         "RIGID_ACC": 1,
         "ACC": 1
     },
-    "randomize": true,
+    "randomize": false,
     "avatarTypes": {
         "R15": true,
         "BUNDLE": false,
-        "NEW": false
+        "NEW": true
     }
 }
 
